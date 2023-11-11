@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.9804688in"
+   height="6.3518839in"
+   viewBox="0 0 253.50391 161.33785"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#00000000" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter28"
+       x="-0.043292329"
+       y="-0.071563639"
+       width="1.0865847"
+       height="1.1431273">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.474510"
+         flood-color="rgb(0,0,0)"
+         id="feFlood27" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="7.294833"
+         id="feGaussianBlur27" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset27" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite27" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite28" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.24805325,-43.521832)">
+    <path
+       style="font-style:italic;font-weight:900;font-size:400px;line-height:529.134px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';letter-spacing:-30px;word-spacing:0.96px;white-space:pre;fill:#80ff00;fill-rule:evenodd;stroke:#80ff00;stroke-width:6.11838;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.7;filter:url(#filter28)"
+       d="m 76.501563,384.80753 c -23.466667,0 -43.733334,-3.6 -60.800001,-10.8 -16.7999997,-7.2 -30.4,-18 -40.8,-32.4 l 60.400001,-57.2 c 6.133333,8.8 12.666667,15.46667 19.6,20 7.2,4.26667 14.933333,6.4 23.199999,6.4 9.066667,0 16.4,-2.66667 21.999998,-8 5.86667,-5.33333 9.73333,-12.93333 11.6,-22.8 l 22,-110.4 H 38.501563 l 14.4,-71.200004 H 241.30156 l -35.2,176.000004 c -5.33333,26.93333 -13.6,48.53333 -24.8,64.8 -11.2,16 -25.6,27.6 -43.2,34.8 -17.33333,7.2 -37.86667,10.8 -61.599997,10.8 z m 137.865477,-7.39161 56,-280.000002 h 94.4 l -41.2,206.800002 h 126.4 l -14.8,73.2 z"
+       id="text1"
+       transform="matrix(0.49109735,0,0,0.49109735,22.674077,5.7814262)"
+       aria-label="JL"
+       sodipodi:nodetypes="sccccscccccccccsccccccc" />
+  </g>
+</svg>
