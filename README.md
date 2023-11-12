@@ -21,7 +21,11 @@ Welcome to my personal portfolio website! This repository contains the source co
 - HTML5
 - CSS3
 - JavaScript
-- [Add any other technologies you've used]
+- TeleportHQ
+- Visual Studio Code
+- Github
+- PHP
+- Formester
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/johnlorden/john-lorden.git`
@@ -38,7 +42,4 @@ I appreciate contributions! If you'd like to contribute, please follow the [Cont
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Special thanks to [Name] for [specific contribution or inspiration].
 
