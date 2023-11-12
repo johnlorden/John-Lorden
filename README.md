@@ -45,5 +45,5 @@ I appreciate contributions! If you'd like to contribute, please follow the [Cont
 Donation are very much appriciated Learn more about [Donations](Donation.md)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
