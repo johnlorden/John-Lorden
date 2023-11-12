@@ -40,6 +40,9 @@ Welcome to my personal portfolio website! This repository contains the source co
 ## Contributing
 I appreciate contributions! If you'd like to contribute, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
+## Donation
+Donation are very much appriciated Learn more about [Donations](Donations.md)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
