@@ -9,6 +9,7 @@ Welcome to my personal portfolio website! This repository contains the source co
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Donation](#donation)
 - [License](#license)
 
 ## Features
@@ -41,7 +42,7 @@ Welcome to my personal portfolio website! This repository contains the source co
 I appreciate contributions! If you'd like to contribute, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Donation
-Donation are very much appriciated Learn more about [Donations](Donations.md)
+Donation are very much appriciated Learn more about [Donations](Donation.md)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
